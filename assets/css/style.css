@@ -1,0 +1,34 @@
+body{
+    font-family: 'Raleway', sans-serif;
+}
+
+header{
+    background-image: url('../img/bg-hero.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: left;
+    padding-right: 178px;
+    padding-left: 486px;
+    padding-top: 150px;
+    padding-bottom: 234px;
+    width: auto;
+    height: 630px;
+}
+
+.section-tarjetas{
+    background-color: #17A2B8;
+}
+
+.section-tarjetas img{
+    height: 232px;
+}
+
+.titulo2{
+    padding-bottom: 40px;
+}
+
+.card img {
+    height: 232px;
+    object-fit: cover;
+}
+
